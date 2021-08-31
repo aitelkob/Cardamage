@@ -1,0 +1,1 @@
+export const Login_android = 'http://damage.annonce.pub/api/login_android';
